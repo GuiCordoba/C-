@@ -1,2 +1,2 @@
-# C#
-Repositório para a linguagem C#
+
+Repositório para postagem dos meus projetos na linguagem C#
