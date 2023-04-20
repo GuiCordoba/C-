@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\Cursos\C#\Seção 5\ExemploSobrecarga\ExemploConstrutores\obj\Debug\net7.0\ExemploSobrecarga.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Cursos\C#\Seção 5\ExemploSobrecarga\ExemploConstrutores\obj\Debug\net7.0\ExemploSobrecarga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Cursos\C#\Seção 5\ExemploSobrecarga\ExemploConstrutores\obj\Debug\net7.0\ExemploSobrecarga.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Cursos\C#\Seção 5\ExemploSobrecarga\ExemploConstrutores\obj\Debug\net7.0\ExemploSobrecarga.AssemblyInfo.cs
+C:\Users\User\Desktop\Cursos\C#\Seção 5\ExemploSobrecarga\ExemploConstrutores\obj\Debug\net7.0\ExemploSobrecarga.csproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Cursos\C#\Seção 5\ExemploConstrutores\ExemploConstrutores\obj\Debug\net7.0\ExemploConstrutores.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Cursos\C#\Seção 5\ExemploConstrutores\ExemploConstrutores\obj\Debug\net7.0\ExemploConstrutores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Cursos\C#\Seção 5\ExemploConstrutores\ExemploConstrutores\obj\Debug\net7.0\ExemploConstrutores.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Cursos\C#\Seção 5\ExemploConstrutores\ExemploConstrutores\obj\Debug\net7.0\ExemploConstrutores.AssemblyInfo.cs
+C:\Users\User\Desktop\Cursos\C#\Seção 5\ExemploConstrutores\ExemploConstrutores\obj\Debug\net7.0\ExemploConstrutores.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Cursos\C#\Seção 5\ExemploConstrutores\ExemploConstrutores\bin\Debug\net7.0\ExemploConstrutores.exe
+C:\Users\User\Desktop\Cursos\C#\Seção 5\ExemploConstrutores\ExemploConstrutores\bin\Debug\net7.0\ExemploConstrutores.deps.json
+C:\Users\User\Desktop\Cursos\C#\Seção 5\ExemploConstrutores\ExemploConstrutores\bin\Debug\net7.0\ExemploConstrutores.runtimeconfig.json
+C:\Users\User\Desktop\Cursos\C#\Seção 5\ExemploConstrutores\ExemploConstrutores\bin\Debug\net7.0\ExemploConstrutores.dll
+C:\Users\User\Desktop\Cursos\C#\Seção 5\ExemploConstrutores\ExemploConstrutores\bin\Debug\net7.0\ExemploConstrutores.pdb
+C:\Users\User\Desktop\Cursos\C#\Seção 5\ExemploConstrutores\ExemploConstrutores\obj\Debug\net7.0\ExemploConstrutores.dll
+C:\Users\User\Desktop\Cursos\C#\Seção 5\ExemploConstrutores\ExemploConstrutores\obj\Debug\net7.0\refint\ExemploConstrutores.dll
+C:\Users\User\Desktop\Cursos\C#\Seção 5\ExemploConstrutores\ExemploConstrutores\obj\Debug\net7.0\ExemploConstrutores.pdb
+C:\Users\User\Desktop\Cursos\C#\Seção 5\ExemploConstrutores\ExemploConstrutores\obj\Debug\net7.0\ExemploConstrutores.genruntimeconfig.cache
+C:\Users\User\Desktop\Cursos\C#\Seção 5\ExemploConstrutores\ExemploConstrutores\obj\Debug\net7.0\ref\ExemploConstrutores.dll

@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Cursos\C#\Seção 6\ExemploVetores2\ExemploVetores2\bin\Debug\net7.0\ExemploVetores2.exe
+C:\Users\User\Desktop\Cursos\C#\Seção 6\ExemploVetores2\ExemploVetores2\bin\Debug\net7.0\ExemploVetores2.deps.json
+C:\Users\User\Desktop\Cursos\C#\Seção 6\ExemploVetores2\ExemploVetores2\bin\Debug\net7.0\ExemploVetores2.runtimeconfig.json
+C:\Users\User\Desktop\Cursos\C#\Seção 6\ExemploVetores2\ExemploVetores2\bin\Debug\net7.0\ExemploVetores2.dll
+C:\Users\User\Desktop\Cursos\C#\Seção 6\ExemploVetores2\ExemploVetores2\bin\Debug\net7.0\ExemploVetores2.pdb
+C:\Users\User\Desktop\Cursos\C#\Seção 6\ExemploVetores2\ExemploVetores2\obj\Debug\net7.0\ExemploVetores2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Cursos\C#\Seção 6\ExemploVetores2\ExemploVetores2\obj\Debug\net7.0\ExemploVetores2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Cursos\C#\Seção 6\ExemploVetores2\ExemploVetores2\obj\Debug\net7.0\ExemploVetores2.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Cursos\C#\Seção 6\ExemploVetores2\ExemploVetores2\obj\Debug\net7.0\ExemploVetores2.AssemblyInfo.cs
+C:\Users\User\Desktop\Cursos\C#\Seção 6\ExemploVetores2\ExemploVetores2\obj\Debug\net7.0\ExemploVetores2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Cursos\C#\Seção 6\ExemploVetores2\ExemploVetores2\obj\Debug\net7.0\ExemploVetores2.dll
+C:\Users\User\Desktop\Cursos\C#\Seção 6\ExemploVetores2\ExemploVetores2\obj\Debug\net7.0\refint\ExemploVetores2.dll
+C:\Users\User\Desktop\Cursos\C#\Seção 6\ExemploVetores2\ExemploVetores2\obj\Debug\net7.0\ExemploVetores2.pdb
+C:\Users\User\Desktop\Cursos\C#\Seção 6\ExemploVetores2\ExemploVetores2\obj\Debug\net7.0\ExemploVetores2.genruntimeconfig.cache
+C:\Users\User\Desktop\Cursos\C#\Seção 6\ExemploVetores2\ExemploVetores2\obj\Debug\net7.0\ref\ExemploVetores2.dll

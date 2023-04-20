@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Cursos\C#\Seção 4\ExemploEstatico1_1\ExemploEstatico1_1\bin\Debug\net7.0\ExemploEstatico1_1.exe
+C:\Users\User\Desktop\Cursos\C#\Seção 4\ExemploEstatico1_1\ExemploEstatico1_1\bin\Debug\net7.0\ExemploEstatico1_1.deps.json
+C:\Users\User\Desktop\Cursos\C#\Seção 4\ExemploEstatico1_1\ExemploEstatico1_1\bin\Debug\net7.0\ExemploEstatico1_1.runtimeconfig.json
+C:\Users\User\Desktop\Cursos\C#\Seção 4\ExemploEstatico1_1\ExemploEstatico1_1\bin\Debug\net7.0\ExemploEstatico1_1.dll
+C:\Users\User\Desktop\Cursos\C#\Seção 4\ExemploEstatico1_1\ExemploEstatico1_1\bin\Debug\net7.0\ExemploEstatico1_1.pdb
+C:\Users\User\Desktop\Cursos\C#\Seção 4\ExemploEstatico1_1\ExemploEstatico1_1\obj\Debug\net7.0\ExemploEstatico1_1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Cursos\C#\Seção 4\ExemploEstatico1_1\ExemploEstatico1_1\obj\Debug\net7.0\ExemploEstatico1_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Cursos\C#\Seção 4\ExemploEstatico1_1\ExemploEstatico1_1\obj\Debug\net7.0\ExemploEstatico1_1.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Cursos\C#\Seção 4\ExemploEstatico1_1\ExemploEstatico1_1\obj\Debug\net7.0\ExemploEstatico1_1.AssemblyInfo.cs
+C:\Users\User\Desktop\Cursos\C#\Seção 4\ExemploEstatico1_1\ExemploEstatico1_1\obj\Debug\net7.0\ExemploEstatico1_1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Cursos\C#\Seção 4\ExemploEstatico1_1\ExemploEstatico1_1\obj\Debug\net7.0\ExemploEstatico1_1.dll
+C:\Users\User\Desktop\Cursos\C#\Seção 4\ExemploEstatico1_1\ExemploEstatico1_1\obj\Debug\net7.0\refint\ExemploEstatico1_1.dll
+C:\Users\User\Desktop\Cursos\C#\Seção 4\ExemploEstatico1_1\ExemploEstatico1_1\obj\Debug\net7.0\ExemploEstatico1_1.pdb
+C:\Users\User\Desktop\Cursos\C#\Seção 4\ExemploEstatico1_1\ExemploEstatico1_1\obj\Debug\net7.0\ExemploEstatico1_1.genruntimeconfig.cache
+C:\Users\User\Desktop\Cursos\C#\Seção 4\ExemploEstatico1_1\ExemploEstatico1_1\obj\Debug\net7.0\ref\ExemploEstatico1_1.dll
