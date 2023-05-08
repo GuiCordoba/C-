@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Cursos\C#\Seção 7\ExpressãoCondicionalTernaria\ExpressãoCondicionalTernaria\bin\Debug\net7.0\ExpressãoCondicionalTernaria.exe
+C:\Users\User\Desktop\Cursos\C#\Seção 7\ExpressãoCondicionalTernaria\ExpressãoCondicionalTernaria\bin\Debug\net7.0\ExpressãoCondicionalTernaria.deps.json
+C:\Users\User\Desktop\Cursos\C#\Seção 7\ExpressãoCondicionalTernaria\ExpressãoCondicionalTernaria\bin\Debug\net7.0\ExpressãoCondicionalTernaria.runtimeconfig.json
+C:\Users\User\Desktop\Cursos\C#\Seção 7\ExpressãoCondicionalTernaria\ExpressãoCondicionalTernaria\bin\Debug\net7.0\ExpressãoCondicionalTernaria.dll
+C:\Users\User\Desktop\Cursos\C#\Seção 7\ExpressãoCondicionalTernaria\ExpressãoCondicionalTernaria\bin\Debug\net7.0\ExpressãoCondicionalTernaria.pdb
+C:\Users\User\Desktop\Cursos\C#\Seção 7\ExpressãoCondicionalTernaria\ExpressãoCondicionalTernaria\obj\Debug\net7.0\ExpressãoCondicionalTernaria.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Cursos\C#\Seção 7\ExpressãoCondicionalTernaria\ExpressãoCondicionalTernaria\obj\Debug\net7.0\ExpressãoCondicionalTernaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Cursos\C#\Seção 7\ExpressãoCondicionalTernaria\ExpressãoCondicionalTernaria\obj\Debug\net7.0\ExpressãoCondicionalTernaria.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Cursos\C#\Seção 7\ExpressãoCondicionalTernaria\ExpressãoCondicionalTernaria\obj\Debug\net7.0\ExpressãoCondicionalTernaria.AssemblyInfo.cs
+C:\Users\User\Desktop\Cursos\C#\Seção 7\ExpressãoCondicionalTernaria\ExpressãoCondicionalTernaria\obj\Debug\net7.0\ExpressãoCondicionalTernaria.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Cursos\C#\Seção 7\ExpressãoCondicionalTernaria\ExpressãoCondicionalTernaria\obj\Debug\net7.0\ExpressãoCondicionalTernaria.dll
+C:\Users\User\Desktop\Cursos\C#\Seção 7\ExpressãoCondicionalTernaria\ExpressãoCondicionalTernaria\obj\Debug\net7.0\refint\ExpressãoCondicionalTernaria.dll
+C:\Users\User\Desktop\Cursos\C#\Seção 7\ExpressãoCondicionalTernaria\ExpressãoCondicionalTernaria\obj\Debug\net7.0\ExpressãoCondicionalTernaria.pdb
+C:\Users\User\Desktop\Cursos\C#\Seção 7\ExpressãoCondicionalTernaria\ExpressãoCondicionalTernaria\obj\Debug\net7.0\ExpressãoCondicionalTernaria.genruntimeconfig.cache
+C:\Users\User\Desktop\Cursos\C#\Seção 7\ExpressãoCondicionalTernaria\ExpressãoCondicionalTernaria\obj\Debug\net7.0\ref\ExpressãoCondicionalTernaria.dll

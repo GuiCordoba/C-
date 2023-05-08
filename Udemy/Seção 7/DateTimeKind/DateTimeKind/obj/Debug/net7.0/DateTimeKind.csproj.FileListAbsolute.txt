@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Cursos\C#\Seção 7\DateTimeKind\DateTimeKind\bin\Debug\net7.0\DateTimeKind.exe
+C:\Users\User\Desktop\Cursos\C#\Seção 7\DateTimeKind\DateTimeKind\bin\Debug\net7.0\DateTimeKind.deps.json
+C:\Users\User\Desktop\Cursos\C#\Seção 7\DateTimeKind\DateTimeKind\bin\Debug\net7.0\DateTimeKind.runtimeconfig.json
+C:\Users\User\Desktop\Cursos\C#\Seção 7\DateTimeKind\DateTimeKind\bin\Debug\net7.0\DateTimeKind.dll
+C:\Users\User\Desktop\Cursos\C#\Seção 7\DateTimeKind\DateTimeKind\bin\Debug\net7.0\DateTimeKind.pdb
+C:\Users\User\Desktop\Cursos\C#\Seção 7\DateTimeKind\DateTimeKind\obj\Debug\net7.0\DateTimeKind.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Cursos\C#\Seção 7\DateTimeKind\DateTimeKind\obj\Debug\net7.0\DateTimeKind.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Cursos\C#\Seção 7\DateTimeKind\DateTimeKind\obj\Debug\net7.0\DateTimeKind.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Cursos\C#\Seção 7\DateTimeKind\DateTimeKind\obj\Debug\net7.0\DateTimeKind.AssemblyInfo.cs
+C:\Users\User\Desktop\Cursos\C#\Seção 7\DateTimeKind\DateTimeKind\obj\Debug\net7.0\DateTimeKind.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Cursos\C#\Seção 7\DateTimeKind\DateTimeKind\obj\Debug\net7.0\DateTimeKind.dll
+C:\Users\User\Desktop\Cursos\C#\Seção 7\DateTimeKind\DateTimeKind\obj\Debug\net7.0\refint\DateTimeKind.dll
+C:\Users\User\Desktop\Cursos\C#\Seção 7\DateTimeKind\DateTimeKind\obj\Debug\net7.0\DateTimeKind.pdb
+C:\Users\User\Desktop\Cursos\C#\Seção 7\DateTimeKind\DateTimeKind\obj\Debug\net7.0\DateTimeKind.genruntimeconfig.cache
+C:\Users\User\Desktop\Cursos\C#\Seção 7\DateTimeKind\DateTimeKind\obj\Debug\net7.0\ref\DateTimeKind.dll

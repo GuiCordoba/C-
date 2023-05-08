@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Cursos\C#\Seção 7\TimeSpan\TimeSpan\bin\Debug\net7.0\ExTimeSpan.exe
+C:\Users\User\Desktop\Cursos\C#\Seção 7\TimeSpan\TimeSpan\bin\Debug\net7.0\ExTimeSpan.deps.json
+C:\Users\User\Desktop\Cursos\C#\Seção 7\TimeSpan\TimeSpan\bin\Debug\net7.0\ExTimeSpan.runtimeconfig.json
+C:\Users\User\Desktop\Cursos\C#\Seção 7\TimeSpan\TimeSpan\bin\Debug\net7.0\ExTimeSpan.dll
+C:\Users\User\Desktop\Cursos\C#\Seção 7\TimeSpan\TimeSpan\bin\Debug\net7.0\ExTimeSpan.pdb
+C:\Users\User\Desktop\Cursos\C#\Seção 7\TimeSpan\TimeSpan\obj\Debug\net7.0\ExTimeSpan.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Cursos\C#\Seção 7\TimeSpan\TimeSpan\obj\Debug\net7.0\ExTimeSpan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Cursos\C#\Seção 7\TimeSpan\TimeSpan\obj\Debug\net7.0\ExTimeSpan.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Cursos\C#\Seção 7\TimeSpan\TimeSpan\obj\Debug\net7.0\ExTimeSpan.AssemblyInfo.cs
+C:\Users\User\Desktop\Cursos\C#\Seção 7\TimeSpan\TimeSpan\obj\Debug\net7.0\ExTimeSpan.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Cursos\C#\Seção 7\TimeSpan\TimeSpan\obj\Debug\net7.0\ExTimeSpan.dll
+C:\Users\User\Desktop\Cursos\C#\Seção 7\TimeSpan\TimeSpan\obj\Debug\net7.0\refint\ExTimeSpan.dll
+C:\Users\User\Desktop\Cursos\C#\Seção 7\TimeSpan\TimeSpan\obj\Debug\net7.0\ExTimeSpan.pdb
+C:\Users\User\Desktop\Cursos\C#\Seção 7\TimeSpan\TimeSpan\obj\Debug\net7.0\ExTimeSpan.genruntimeconfig.cache
+C:\Users\User\Desktop\Cursos\C#\Seção 7\TimeSpan\TimeSpan\obj\Debug\net7.0\ref\ExTimeSpan.dll

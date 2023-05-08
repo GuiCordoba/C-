@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Cursos\C#\Seção 7\PropDateTime3\PropDateTime3\obj\Debug\net7.0\PropDateTime3.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Cursos\C#\Seção 7\PropDateTime3\PropDateTime3\obj\Debug\net7.0\PropDateTime3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Cursos\C#\Seção 7\PropDateTime3\PropDateTime3\obj\Debug\net7.0\PropDateTime3.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Cursos\C#\Seção 7\PropDateTime3\PropDateTime3\obj\Debug\net7.0\PropDateTime3.AssemblyInfo.cs
+C:\Users\User\Desktop\Cursos\C#\Seção 7\PropDateTime3\PropDateTime3\obj\Debug\net7.0\PropDateTime3.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Cursos\C#\Seção 7\PropDateTime3\PropDateTime3\bin\Debug\net7.0\PropDateTime3.exe
+C:\Users\User\Desktop\Cursos\C#\Seção 7\PropDateTime3\PropDateTime3\bin\Debug\net7.0\PropDateTime3.deps.json
+C:\Users\User\Desktop\Cursos\C#\Seção 7\PropDateTime3\PropDateTime3\bin\Debug\net7.0\PropDateTime3.runtimeconfig.json
+C:\Users\User\Desktop\Cursos\C#\Seção 7\PropDateTime3\PropDateTime3\bin\Debug\net7.0\PropDateTime3.dll
+C:\Users\User\Desktop\Cursos\C#\Seção 7\PropDateTime3\PropDateTime3\bin\Debug\net7.0\PropDateTime3.pdb
+C:\Users\User\Desktop\Cursos\C#\Seção 7\PropDateTime3\PropDateTime3\obj\Debug\net7.0\PropDateTime3.dll
+C:\Users\User\Desktop\Cursos\C#\Seção 7\PropDateTime3\PropDateTime3\obj\Debug\net7.0\refint\PropDateTime3.dll
+C:\Users\User\Desktop\Cursos\C#\Seção 7\PropDateTime3\PropDateTime3\obj\Debug\net7.0\PropDateTime3.pdb
+C:\Users\User\Desktop\Cursos\C#\Seção 7\PropDateTime3\PropDateTime3\obj\Debug\net7.0\PropDateTime3.genruntimeconfig.cache
+C:\Users\User\Desktop\Cursos\C#\Seção 7\PropDateTime3\PropDateTime3\obj\Debug\net7.0\ref\PropDateTime3.dll

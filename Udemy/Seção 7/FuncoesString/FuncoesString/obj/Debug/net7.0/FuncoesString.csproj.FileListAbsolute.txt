@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Cursos\C#\Seção 7\FuncoesString\FuncoesString\bin\Debug\net7.0\FuncoesString.exe
+C:\Users\User\Desktop\Cursos\C#\Seção 7\FuncoesString\FuncoesString\bin\Debug\net7.0\FuncoesString.deps.json
+C:\Users\User\Desktop\Cursos\C#\Seção 7\FuncoesString\FuncoesString\bin\Debug\net7.0\FuncoesString.runtimeconfig.json
+C:\Users\User\Desktop\Cursos\C#\Seção 7\FuncoesString\FuncoesString\bin\Debug\net7.0\FuncoesString.dll
+C:\Users\User\Desktop\Cursos\C#\Seção 7\FuncoesString\FuncoesString\bin\Debug\net7.0\FuncoesString.pdb
+C:\Users\User\Desktop\Cursos\C#\Seção 7\FuncoesString\FuncoesString\obj\Debug\net7.0\FuncoesString.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Cursos\C#\Seção 7\FuncoesString\FuncoesString\obj\Debug\net7.0\FuncoesString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Cursos\C#\Seção 7\FuncoesString\FuncoesString\obj\Debug\net7.0\FuncoesString.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Cursos\C#\Seção 7\FuncoesString\FuncoesString\obj\Debug\net7.0\FuncoesString.AssemblyInfo.cs
+C:\Users\User\Desktop\Cursos\C#\Seção 7\FuncoesString\FuncoesString\obj\Debug\net7.0\FuncoesString.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Cursos\C#\Seção 7\FuncoesString\FuncoesString\obj\Debug\net7.0\FuncoesString.dll
+C:\Users\User\Desktop\Cursos\C#\Seção 7\FuncoesString\FuncoesString\obj\Debug\net7.0\refint\FuncoesString.dll
+C:\Users\User\Desktop\Cursos\C#\Seção 7\FuncoesString\FuncoesString\obj\Debug\net7.0\FuncoesString.pdb
+C:\Users\User\Desktop\Cursos\C#\Seção 7\FuncoesString\FuncoesString\obj\Debug\net7.0\FuncoesString.genruntimeconfig.cache
+C:\Users\User\Desktop\Cursos\C#\Seção 7\FuncoesString\FuncoesString\obj\Debug\net7.0\ref\FuncoesString.dll

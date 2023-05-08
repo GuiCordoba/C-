@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Cursos\C#\Seção 6\ExemploSwitchCase\ExemploSwitchCase\bin\Debug\net7.0\ExemploSwitchCase.exe
+C:\Users\User\Desktop\Cursos\C#\Seção 6\ExemploSwitchCase\ExemploSwitchCase\bin\Debug\net7.0\ExemploSwitchCase.deps.json
+C:\Users\User\Desktop\Cursos\C#\Seção 6\ExemploSwitchCase\ExemploSwitchCase\bin\Debug\net7.0\ExemploSwitchCase.runtimeconfig.json
+C:\Users\User\Desktop\Cursos\C#\Seção 6\ExemploSwitchCase\ExemploSwitchCase\bin\Debug\net7.0\ExemploSwitchCase.dll
+C:\Users\User\Desktop\Cursos\C#\Seção 6\ExemploSwitchCase\ExemploSwitchCase\bin\Debug\net7.0\ExemploSwitchCase.pdb
+C:\Users\User\Desktop\Cursos\C#\Seção 6\ExemploSwitchCase\ExemploSwitchCase\obj\Debug\net7.0\ExemploSwitchCase.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Cursos\C#\Seção 6\ExemploSwitchCase\ExemploSwitchCase\obj\Debug\net7.0\ExemploSwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Cursos\C#\Seção 6\ExemploSwitchCase\ExemploSwitchCase\obj\Debug\net7.0\ExemploSwitchCase.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Cursos\C#\Seção 6\ExemploSwitchCase\ExemploSwitchCase\obj\Debug\net7.0\ExemploSwitchCase.AssemblyInfo.cs
+C:\Users\User\Desktop\Cursos\C#\Seção 6\ExemploSwitchCase\ExemploSwitchCase\obj\Debug\net7.0\ExemploSwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Cursos\C#\Seção 6\ExemploSwitchCase\ExemploSwitchCase\obj\Debug\net7.0\ExemploSwitchCase.dll
+C:\Users\User\Desktop\Cursos\C#\Seção 6\ExemploSwitchCase\ExemploSwitchCase\obj\Debug\net7.0\refint\ExemploSwitchCase.dll
+C:\Users\User\Desktop\Cursos\C#\Seção 6\ExemploSwitchCase\ExemploSwitchCase\obj\Debug\net7.0\ExemploSwitchCase.pdb
+C:\Users\User\Desktop\Cursos\C#\Seção 6\ExemploSwitchCase\ExemploSwitchCase\obj\Debug\net7.0\ExemploSwitchCase.genruntimeconfig.cache
+C:\Users\User\Desktop\Cursos\C#\Seção 6\ExemploSwitchCase\ExemploSwitchCase\obj\Debug\net7.0\ref\ExemploSwitchCase.dll
