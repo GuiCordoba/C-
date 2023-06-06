@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\Cursos\\C#\\Seção 7\\PropDateTime2\\PropDateTime2\\PropDateTime2.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\Cursos\\C# Git\\C-sharp\\Udemy\\Seção7-Tópicos Especias Parte 1\\PropDateTime2\\PropDateTime2\\PropDateTime2.csproj",
       "projectName": "PropDateTime2",
-      "projectPath": "C:\\Users\\User\\Desktop\\Cursos\\C#\\Seção 7\\PropDateTime2\\PropDateTime2\\PropDateTime2.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\Cursos\\C# Git\\C-sharp\\Udemy\\Seção7-Tópicos Especias Parte 1\\PropDateTime2\\PropDateTime2\\PropDateTime2.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\Cursos\\C#\\Seção 7\\PropDateTime2\\PropDateTime2\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\Cursos\\C# Git\\C-sharp\\Udemy\\Seção7-Tópicos Especias Parte 1\\PropDateTime2\\PropDateTime2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

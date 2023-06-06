@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\Cursos\\C#\\Seção 9\\Exercicio 3\\Exercicio 3\\Exercicio 3.csproj": {}
+    "C:\\Users\\User\\Desktop\\Cursos\\C# Git\\C-sharp\\Udemy\\Seção9-Enumeração e Composição\\Exercicio3\\Exercicio 3\\Exercicio 3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\Cursos\\C#\\Seção 9\\Exercicio 3\\Exercicio 3\\Exercicio 3.csproj": {
+    "C:\\Users\\User\\Desktop\\Cursos\\C# Git\\C-sharp\\Udemy\\Seção9-Enumeração e Composição\\Exercicio3\\Exercicio 3\\Exercicio 3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\Cursos\\C#\\Seção 9\\Exercicio 3\\Exercicio 3\\Exercicio 3.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\Cursos\\C# Git\\C-sharp\\Udemy\\Seção9-Enumeração e Composição\\Exercicio3\\Exercicio 3\\Exercicio 3.csproj",
         "projectName": "Exercicio 3",
-        "projectPath": "C:\\Users\\User\\Desktop\\Cursos\\C#\\Seção 9\\Exercicio 3\\Exercicio 3\\Exercicio 3.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\Cursos\\C# Git\\C-sharp\\Udemy\\Seção9-Enumeração e Composição\\Exercicio3\\Exercicio 3\\Exercicio 3.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\Cursos\\C#\\Seção 9\\Exercicio 3\\Exercicio 3\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\Cursos\\C# Git\\C-sharp\\Udemy\\Seção9-Enumeração e Composição\\Exercicio3\\Exercicio 3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

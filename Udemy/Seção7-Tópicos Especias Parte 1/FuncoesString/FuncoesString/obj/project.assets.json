@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\Cursos\\C#\\Seção 7\\FuncoesString\\FuncoesString\\FuncoesString.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\Cursos\\C# Git\\C-sharp\\Udemy\\Seção7-Tópicos Especias Parte 1\\FuncoesString\\FuncoesString\\FuncoesString.csproj",
       "projectName": "FuncoesString",
-      "projectPath": "C:\\Users\\User\\Desktop\\Cursos\\C#\\Seção 7\\FuncoesString\\FuncoesString\\FuncoesString.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\Cursos\\C# Git\\C-sharp\\Udemy\\Seção7-Tópicos Especias Parte 1\\FuncoesString\\FuncoesString\\FuncoesString.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\Cursos\\C#\\Seção 7\\FuncoesString\\FuncoesString\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\Cursos\\C# Git\\C-sharp\\Udemy\\Seção7-Tópicos Especias Parte 1\\FuncoesString\\FuncoesString\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
